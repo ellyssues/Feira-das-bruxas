@@ -9,7 +9,7 @@
     body {
       font-family: 'Georgia', serif;
       background-color: #1c1c1c;
-      color: #f2e9e4;
+      color: #92
       margin: 0;
       padding: 0;
     }
@@ -94,8 +94,8 @@
 
   <section id="contato">
     <h2>Contato</h2>
-    <p>Fale com a gente pelo Instagram: <a href="https://instagram.com" target="_blank">@feiradasbruxas</a></p>
-    <p>Email: feiradasbruxinhas@email.com</p>
+    <p>Fale com a gente pelo Instagram: <a href="https://instagram.com" target="_blank">@Afeiradasbruxas</a></p>
+    <p>Email: afeiradasbruxas@gmail.com</p>
   </section>
 
   <div class="cta">
